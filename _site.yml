@@ -8,3 +8,5 @@ navbar:
       href: about.html
     - text: "Homework 1"
       href: Quad.html
+    - text: "Homework 2"
+      href: HW02.html
